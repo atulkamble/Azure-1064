@@ -1,8 +1,6 @@
 # **MS-AZURE-1064**
 
-### **Microsoft Azure – January Weekends (WE) Batch**
-
-📍 **Wakad | Ethans Tech**
+### **Microsoft Azure Batch**
 
 ---
 
