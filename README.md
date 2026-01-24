@@ -17,15 +17,15 @@ This preparation is **mandatory** and will help us start hands-on labs smoothly 
 
 ### 📋 Pre-Azure Training Survey
 
-👉 [https://forms.office.com/r/Lts7t9g4Lw](https://forms.office.com/r/Lts7t9g4Lw)
+👉 [https://forms.office.com/r/33Z6rmKVXc](https://forms.office.com/r/33Z6rmKVXc)
 
 ### 📂 GitHub Repository
 
-👉 [https://github.com/atulkamble/MS-AZURE-1064](https://github.com/atulkamble/MS-AZURE-1064)
+👉 [https://github.com/atulkamble/Azure-1064](https://github.com/atulkamble/Azure-1064)
 
 ### 🎓 Google Classroom (Mandatory)
 
-👉 [https://classroom.google.com/c/ODI0NTgyODg5Mjg5?cjc=vsx5ic6a](https://classroom.google.com/c/ODI0NTgyODg5Mjg5?cjc=vsx5ic6a)
+👉 [https://classroom.google.com/c/ODI0Nzg1MTA2MDk3?cjc=eqf5jeip](https://classroom.google.com/c/ODI0Nzg1MTA2MDk3?cjc=eqf5jeip)
 
 > All announcements, notes, assignments, lab instructions, and updates will be shared via **Google Classroom only**.
 
@@ -51,9 +51,6 @@ This preparation is **mandatory** and will help us start hands-on labs smoothly 
 ---
 
 ## 🛠️ **Tools Required for MS Azure Course (Azure-Only)**
-
-> ⚠️ This is a **PURE Azure course**
-> ❌ DevOps, CI/CD, Containers, Kubernetes tools are **NOT required**
 
 ---
 
